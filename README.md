@@ -1,1 +1,1 @@
-# Google-Advanced-Analytics-Course-6-Automatidata-project
+# Google-Advanced-Analytics-Automatidata-project-XGboost
